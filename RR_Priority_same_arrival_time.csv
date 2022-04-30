@@ -1,0 +1,6 @@
+Process,Arrival_time,Remaining_BT,Priority,Burst_Time,Completed_Time
+P1,0,4,3,4,0
+P2,0,5,2,5,0
+P3,0,8,2,8,0
+P4,0,7,1,7,0
+P5,0,3,3,3,0

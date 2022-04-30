@@ -1,0 +1,4 @@
+Process,Arrival_time,Burst_time,Completed,Burst_Time
+P1,0,3,0,3
+P2,0,4,0,4
+P3,0,3,0,3
